@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <!--    QUESTIONS //////////////////////////////////////////////////////////////////////////////////////////-->
+    <string name="question1">Canberra is the capital of Australia</string>                           <!-- true -->
+    <string name="question2">The Pacific Ocean is larger than the Atlantic Ocean.</string>           <!-- true -->
+    <string name="question3">The Suez Canal connects the Red Sea and the Indian Ocean.</string>      <!-- false -->
+    <string name="question4">The source of the Nile River is in Egypt.</string>                      <!-- false -->
+    <string name="question5">The Amazon River is the longest river in the Americas.</string>         <!-- true -->
+    <string name="question6">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string><!-- true -->
+    <!--    BUTTONS /////////////////////////////////////////////////////////////////////////////////////////////-->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="reveal_answer_button">Reveal Answer</string>
+    <!--    TOASTS /////////////////////////////////////////////////////////////////////////////////////////////-->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="answered_toast">You have already answered to this question</string>
+    <string name="cheated_toast">Cheating is bad!</string>
+    <string name="right_answers">You have answered right of %1$s of answers!</string>
+<!--    OTHER //////////////////////////////////////////////////////////////////////////////////////////////////////-->
+    <string name="answer_here">Click the button below to view the answer (not recommended)</string>
+</resources>
